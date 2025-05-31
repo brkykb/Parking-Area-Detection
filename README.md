@@ -1,5 +1,9 @@
 # 🚗 Parking Spot Detection System
 
+<p align="center">
+  <img src="https://i.imgur.com/HHFKMdF.gif" alt="Demo" width="600">
+</p>
+
 
 A computer vision-based system for detecting **occupied and available parking spots** from a top-down camera view using image processing and deep learning.
 
